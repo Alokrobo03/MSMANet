@@ -110,4 +110,4 @@ MSMANet consists of three main components:
 - **Moving MNIST:** [Srivastava et al. (2015)](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
 
 ## Statement
-This code is related to the manuscript "Multi-Scale Motion-Aware Network: Enhancing Video Prediction with Lightweight Architecture" submitted to The Visual Computer journal.
+This code is related to the manuscript "Multi-Scale Motion-Aware Network: Enhancing Video Prediction with Lightweight Architecture" submitted to The  Pattern Analysis and Applications journal.
